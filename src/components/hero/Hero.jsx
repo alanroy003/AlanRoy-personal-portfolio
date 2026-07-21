@@ -45,7 +45,7 @@ const Hero = () => {
             {/* Glass Badge Overlay for Mobile Overlap Effect */}
             <div className="bg-white/60 md:bg-transparent backdrop-blur-md md:backdrop-blur-none p-9 md:p-0 rounded-2xl md:rounded-none shadow-sm md:shadow-none border border-white/40 md:border-none w-full max-w-md md:max-w-none">
               {/* Main Title */}
-              <h1 className="text-4xl sm:text-6xl lg:text-8xl font-black text-neutral-950 tracking-tighter leading-[0.95]">
+              <h1 className="text-5xl sm:text-6xl lg:text-8xl font-black text-neutral-950 tracking-tighter leading-[0.95]">
                 I‘am <br className="hidden md:block" />{" "}
                 <span className="relative inline-block mt-1 sm:mt-2">
                   Alan Roy
@@ -55,7 +55,7 @@ const Hero = () => {
               </h1>
 
               {/* Tagline */}
-              <p className="mt-4 sm:mt-6 text-sm sm:text-lg text-neutral-800 max-w-sm sm:max-w-md font-medium leading-relaxed opacity-90 mx-auto md:mx-0">
+              <p className="mt-4 sm:mt-6 text-base sm:text-lg text-neutral-800 max-w-sm sm:max-w-md font-medium leading-relaxed opacity-90 mx-auto md:mx-0">
                 Crafting scalable applications and solving real-world problems
                 through code .
               </p>
