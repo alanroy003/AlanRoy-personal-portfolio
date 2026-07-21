@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "role": "Technical Support Engineer",
+    "company": "Expert Hub Robotics Solutions",
+    "period": "Jan 2026 – Apr 2026",
+    "location": "Dubai",
+    "description": "Assisted in troubleshooting hardware and software issues on robotics test systems, providing technical support to clients via phone calls, tickets, and remote troubleshooting sessions daily. Documented recurring issues and tracked resolutions, reducing average response time significantly, while collaborating closely with engineering teams to escalate and resolve complex technical bugs quickly.",
+    "skills": [
+      "Technical Support",
+      "Troubleshooting",
+      "Robotics Systems",
+      "Remote Support",
+      "Documentation",
+      "Escalation Management"
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Software Developer",
+    "company": "Triaxia Infotech Pvt Ltd",
+    "period": "Jan 2025 – Oct 2025",
+    "location": "Kochi",
+    "description": "Developed and maintained scalable REST APIs for internal applications using Python, Django, and DRF, and designed normalized MySQL database schemas to support reliable, scalable backend services. Wrote unit tests and debugged application issues to improve overall code quality, collaborating with team members using Git-based workflows in a fast-paced Agile environment.",
+    "skills": ["Python", "Django", "DRF", "MySQL", "REST APIs", "Git", "Agile"]
+  },
+  {
+    "id": 3,
+    "role": "Python Developer Intern",
+    "company": "ReverTech IT Solutions Pvt Ltd",
+    "period": "Jan 2023 – Apr 2023",
+    "location": "Kochi",
+    "description": "Automated repetitive data processing tasks using Python scripts, boosting efficiency and accuracy, and built and tested REST API endpoints supporting internal tools and automation workflows. Worked in Linux environments for application deployment, testing, and debugging, and assisted senior developers with code reviews, documentation, and minor bug fixes.",
+    "skills": ["Python", "REST APIs", "Linux", "Automation", "Code Review"]
+  }
+]
