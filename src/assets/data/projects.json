@@ -1,5 +1,92 @@
 [
   {
+    "title": "Healing Bloom - AI-Based Skin Disease Identification App",
+    "img": true,
+    "img_url": "/projectImages/healing-bloom/healing-bloom-1768412397889.png",
+    "description": "Healing Bloom is an AI-powered skin disease identification system that classifies skin conditions from images using an ensemble of CNN architectures, including Inception-ResNet-V2 and EfficientNet, served through a REST API. The Flutter mobile app is a thin client on top of this API, additionally offering personalized skincare and cosmetic product recommendations via face scanning and an integrated shopping platform for medicines and beauty products.",
+    "tech": [
+      "Inception-ResNet-V2",
+      "EfficientNet",
+      "CNN",
+      "TensorFlow Lite",
+      "REST API",
+      "Flutter",
+      "Firebase"
+    ],
+    "github_link": "https://github.com/alanroy003/Healing_Bloom_APP",
+    "Live": false,
+    "livedemo_link": "",
+    "highlighted": true
+  },
+  {
+    "title": "Rydio – Car Rental System",
+    "img": true,
+    "img_url": "/projectImages/rydio-car-rental-system/rydio-car-rental-system-1768403257519.png",
+    "description": "Rydio is a full-stack car rental platform built with the MERN stack (MongoDB, Express, React, Node.js) that allows users to browse available cars, book rentals, and manage their reservations. It includes user authentication, an admin dashboard for managing cars and bookings, Stripe payment integration for secure online payments, and a responsive UI for a seamless booking experience.",
+    "tech": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Bootstrap 5",
+      "JWT",
+      "Stripe API"
+    ],
+    "github_link": "https://github.com/alanroy003/Rydio-Car-Rental-System",
+    "Live": true,
+    "livedemo_link": "https://rydio-car-rental-system.vercel.app/",
+    "highlighted": true
+  },
+  {
+    "title": "EduCloudX – AI Learning Platform",
+    "img": true,
+    "img_url": "/projectImages/educloudx-–-ai-learning-platform/educloudx-–-ai-learning-platform-1768403378198.png",
+    "description": "EduCloudX is an AI-powered social learning platform built with Django, designed to connect students and educators through personalized, collaborative, and interactive learning. It features course management, AI-driven PDF summarization, content generation using Hugging Face APIs, and secure authentication via Google OAuth2.",
+    "tech": [
+      "Python",
+      "Django",
+      "Django REST Framework",
+      "Bootstrap 5",
+      "JavaScript",
+      "Hugging Face API",
+      "PostgreSQL"
+    ],
+    "github_link": "https://github.com/alanroy003/EduCloudX-AI-Learning-Platform",
+    "Live": false,
+    "livedemo_link": "",
+    "highlighted": true
+  },
+  {
+    "title": "DataExtract Studio – Oracle PL/SQL Data Pipeline",
+    "img": false,
+    "img_url": "",
+    "description": "DataExtract Studio is an Oracle PL/SQL data pipeline that uses packages built with cursors, bulk collect/forall, and exception handling for data validation. It exposes JWT-secured Django REST APIs with role-based access control and a configurable audit-trail logging framework.",
+    "tech": [
+      "Oracle PL/SQL",
+      "Django",
+      "Django REST Framework",
+      "JWT",
+      "REST API"
+    ],
+    "github_link": "https://github.com/alanroy003/DataExtract-Studio",
+    "Live": false,
+    "livedemo_link": "",
+    "highlighted": true
+  },
+  {
+    "title": "PulseBoard – Real-Time Crypto & Trading Data Pipeline",
+    "img": false,
+    "img_url": "",
+    "description": "PulseBoard is a real-time crypto and trading data pipeline with automated pipelines built on Celery and Redis, managing millions of API requests daily. It implements a secure user authentication system using JWT and Google OAuth to safeguard user endpoints.",
+    "tech": ["Celery", "Redis", "JWT", "Google OAuth", "REST API"],
+    "github_link": "https://github.com/alanroy003/PulseBoard-Real-time-data-pipelines.git",
+    "Live": false,
+    "livedemo_link": "",
+    "highlighted": true
+  },
+  {
     "title": "Community Issue Tracker",
     "img": false,
     "img_url": "",
