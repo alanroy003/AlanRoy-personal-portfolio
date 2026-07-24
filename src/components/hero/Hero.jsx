@@ -5,10 +5,14 @@ import { FaLinkedin, FaGithub, FaXTwitter } from "react-icons/fa6";
 
 const Hero = () => {
   const socialLinks = [
-    { name: "LinkedIn", icon: FaLinkedin, href: "https://linkedin.com" },
-    { name: "GitHub", icon: FaGithub, href: "https://github.com" },
-    { name: "Twitter/X", icon: FaXTwitter, href: "https://x.com" },
-    { name: "Gmail", icon: Mail, href: "mailto:your-email@gmail.com" },
+    {
+      name: "LinkedIn",
+      icon: FaLinkedin,
+      href: "https://www.linkedin.com/in/alanroy2024/",
+    },
+    { name: "GitHub", icon: FaGithub, href: "https://github.com/alanroy003" },
+    { name: "Twitter/X", icon: FaXTwitter, href: "" },
+    { name: "Gmail", icon: Mail, href: "mailto:alanroymd@gmail.com" },
   ];
 
   return (

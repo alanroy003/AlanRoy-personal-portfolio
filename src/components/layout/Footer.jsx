@@ -38,7 +38,7 @@ const Footer = () => {
         {/* Social Media Links */}
         <div className="flex items-center gap-4 text-neutral-400">
           <a
-            href="https://github.com/your-username"
+            href="https://github.com/alanroy003"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-xl bg-white/5 hover:bg-orange-500/20 hover:text-orange-500 border border-white/10 hover:border-orange-500/40 transition-all duration-200"
@@ -47,7 +47,7 @@ const Footer = () => {
             <GithubIcon />
           </a>
           <a
-            href="https://linkedin.com/in/your-username"
+            href="https://www.linkedin.com/in/alanroy2024/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-xl bg-white/5 hover:bg-orange-500/20 hover:text-orange-500 border border-white/10 hover:border-orange-500/40 transition-all duration-200"
@@ -56,14 +56,14 @@ const Footer = () => {
             <LinkedinIcon />
           </a>
           <a
-            href="mailto:your-email@example.com"
+            href="mailto:alanroymd@gmail.com"
             className="p-2 rounded-xl bg-white/5 hover:bg-orange-500/20 hover:text-orange-500 border border-white/10 hover:border-orange-500/40 transition-all duration-200"
             aria-label="Email"
           >
             <Mail className="w-4 h-4" />
           </a>
           <a
-            href="https://x.com/your-username"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-xl bg-white/5 hover:bg-orange-500/20 hover:text-orange-500 border border-white/10 hover:border-orange-500/40 transition-all duration-200"
